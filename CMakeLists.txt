@@ -8,4 +8,5 @@ add_executable(
         main.cpp
         vec3.h
         color.h
+        ray.h
 )
