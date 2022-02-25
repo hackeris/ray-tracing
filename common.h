@@ -11,9 +11,6 @@
 #include <random>
 #include <chrono>
 
-#include "ray.h"
-#include "vec3.h"
-
 using std::shared_ptr;
 using std::make_shared;
 using std::sqrt;
