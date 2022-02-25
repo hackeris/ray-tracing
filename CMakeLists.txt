@@ -13,4 +13,5 @@ add_executable(
         sphere.h
         hittable_list.h
         common.h
+        camera.h
 )
