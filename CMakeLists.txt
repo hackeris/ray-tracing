@@ -12,4 +12,5 @@ add_executable(
         hittable.h
         sphere.h
         hittable_list.h
+        common.h
 )
