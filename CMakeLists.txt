@@ -9,4 +9,6 @@ add_executable(
         vec3.h
         color.h
         ray.h
+        hittable.h
+        sphere.h
 )
