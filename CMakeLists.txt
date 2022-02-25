@@ -11,4 +11,5 @@ add_executable(
         ray.h
         hittable.h
         sphere.h
+        hittable_list.h
 )
