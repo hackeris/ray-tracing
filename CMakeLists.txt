@@ -14,4 +14,7 @@ add_executable(
         hittable_list.h
         common.h
         camera.h
+        material.h
 )
+
+SET(CMAKE_BUILD_TYPE "Release")
